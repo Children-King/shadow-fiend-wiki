@@ -7,3 +7,7 @@
 但该系统的前提，是需要登录注册等基础功能，打算先和大家把这块功能实现；<br/>
 由于现实的原因，不能马上将想法付诸于实践，所以目前考虑的是，大家各自提交不同的MD文档到github上，文档不必一口气写完，有想法就往自己的文档上增加内容就行；<br/>
 后面空下来了，希望能实际启动这个项目。<br/>
+
+# 文档链接
+[zhongptREADME.md](https://github.com/Children-King/shadow-fiend-wiki/blob/master/zhongptREADME.md)<br/>
+[xyREADME.md](https://github.com/Children-King/shadow-fiend-wiki/blob/master/xyREADME.md)
