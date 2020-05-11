@@ -11,3 +11,4 @@
 # 文档链接
 [zhongptREADME.md](https://github.com/Children-King/shadow-fiend-wiki/blob/master/zhongptREADME.md)<br/>
 [xyREADME.md](https://github.com/Children-King/shadow-fiend-wiki/blob/master/xyREADME.md)
+[the_first_meeting_minutes.md](https://github.com/Children-King/shadow-fiend-wiki/blob/master/the_first_meeting_minutes.md)
